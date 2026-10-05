@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "123229317000",
+    "project_id": "budget-bites-98aec",
+    "storage_bucket": "budget-bites-98aec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123229317000:android:4d475b18b61b2a4e5f3c3d",
+        "android_client_info": {
+          "package_name": "com.example.budget_bites"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgW5387oXjsprbSavyQ30MX9bxgRxQY6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
